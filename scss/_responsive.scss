@@ -1,0 +1,1537 @@
+@media(max-width: 1245px) {
+    .features-group {
+        .features-group-container {
+          .features-group-header {
+            margin-left: 1.3rem !important;
+      
+            h2 {
+              font-size: 46px !important;
+            }
+          }
+      
+          .features-group-row-center {
+
+            .features-group-col {
+      
+              &:first-child {
+                width: auto !important;
+      
+                img {
+                  height: auto !important;
+                }
+              }
+            }
+          }
+       
+          .features-pink {
+            margin: 0rem 1rem !important;
+            text-align: center;
+      
+            .features-pink-row {
+              padding: 40px !important;
+              width: 50% !important;
+              margin: 1rem auto !important;
+      
+              .features-pink-col {
+                  text-align: left !important;
+      
+                header {
+                  h2 {
+                    text-align: left !important;
+                  }
+                }
+      
+                a {
+                  color: #fff !important;
+                }
+              }
+      
+              .pink-img-two {
+                display: none !important;
+                
+                img {
+                    height: auto !important;
+                }
+            }
+            
+            .features-pink-img {
+                display: none !important;
+              }
+            }
+          }
+        }
+    }
+
+    //COİNS CRYPTO İNVESTMENS
+  .crypto-investments {
+    margin: 0rem !important;
+
+    .crypto-investments-header {
+
+      h2 {
+        font-size: 46px !important;
+        margin-left: 3rem;
+        margin-top: 2rem;
+      }
+    }
+
+    .crypyo-investments-row {
+      display: flex !important;
+      flex-wrap: wrap !important;
+      justify-content: center !important;
+      gap: 26px !important;
+    }
+    
+    .crypto-investmens-orange {
+      margin: 1rem;
+      flex-wrap: wrap;
+      text-align: center !important;
+      justify-content: center !important;
+
+      .crypto-investmens-orange-col:first-child {
+
+        p {
+          margin: 10px 0 !important
+        }
+      }
+
+      .crypto-investmens-orange-col:last-child {
+        background-image: url(../img/Investments4.svg);
+        margin-top: 6rem !important;
+        
+        img {
+          position: static !important;
+          scale: 1.7 !important;
+          width: 100% !important;
+          height: 100% !important;
+        } 
+      }
+    }
+  }
+
+  .company-partners-row {  
+
+    .company-partners-col {
+      flex-wrap: wrap;
+    
+      img {
+        margin: auto !important;
+      }
+    }
+  }
+
+  .assistance-help-container {
+    flex-wrap: wrap;
+    
+    .assistance-help-row {
+      width: 100%;
+      margin: 1rem;
+    }
+  
+    .assistance-large-row {
+      width: 100% !important;
+      height: 400px !important;
+      text-align: center !important;
+      margin: 1rem;
+  
+      img {
+        position: static !important;
+        left: auto !important;
+        top: auto !important;
+        transform: translate(-0%, -0%) !important;
+        width: 360px;
+        height: 360px;
+      }
+    }
+  } 
+
+  //COINUP MOBILE STORES
+.coinup-store-container {
+  background-color: rgb(250,250,250);
+  border: 2px solid rgb(243, 243, 243);
+  padding: 80px 0 120px;
+  border-radius: 24px;
+  overflow: hidden;
+  position: relative;
+  width: 100% !important;
+
+  .coinup-store-header{
+    margin-left: 1rem !important;
+    
+    h2 {
+      color: #0f0f0f !important;
+      font-size: 52px;
+    }
+  } 
+
+  .coinup-stores-row  {
+    flex-wrap: wrap !important; 
+    width: 100% !important;
+
+    a{
+      text-decoration: none;
+
+      h4 {
+        color: #0f0f0f !important;
+        font-size: 20px;
+        font-weight: 500;
+      }
+
+      p {
+        color: #4b4b4b;
+      }
+    }
+
+    .coinup-stores-col {
+      border: 2px solid rgb(243, 243, 243);
+      background-color: #fff;
+      border-radius: 24px;
+      padding: 32px;
+      width: 100% !important;
+    }
+  }
+}
+
+  .coinup-stores-preview-row {
+    height: 100% !important;
+    margin: 1rem !important;
+    flex-wrap:  wrap;
+    justify-content: center !important;
+    text-align: center;
+
+    .coinup-stores-preview-col {
+      margin: 0 2rem;
+  
+      h4 {
+        margin: 0 !important;
+      }
+  
+      p {
+        margin: 12px 0 !important;
+        padding: 0 !important;
+      }
+    }
+  
+    .coinup-stores-preview-col:last-child {
+      left: auto !important;
+      margin-top: 3rem;
+     
+      
+      img {
+        position: static !important;
+        right: auto !important;
+        top: auto !important;
+      }
+    }
+  }
+}
+
+@media(max-width: 1200px) {
+  //COINUP MOBILE STORES
+  .coinup-store-container {
+    margin: 0 !important; 
+  }
+
+  //! MAİN ABOUT
+  .main-about-container {
+
+    .main-about-row {
+      flex-wrap: wrap;
+      justify-content: flex-start !important;
+    }
+  }
+  
+  //! MAİN ABOUT İNFO
+  .about-info { 
+
+    .about-info-container {
+      margin: 2.5rem !important;
+      text-align: center;
+    }
+  }
+}
+
+@media(max-width: 992px) {
+  .main-nav-row {
+    margin: 0 !important;
+  }
+
+  .main-nav-logo {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  } 
+
+  .main-nav-links {
+    display: none;
+  }
+
+  .responsive-navbar .main-nav-links {
+    display: block;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    backdrop-filter: blur(25px);
+    width: 100%;
+    height: 450px !important;
+    text-align: center;
+    border-bottom: 2px solid #000;
+    filter: drop-shadow(1px 1px 5px #000);
+    
+    ul {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      display: block !important;
+
+      li {
+        margin: 2rem 0;
+        font-size: 24px;
+
+        a {
+          color: #fff;
+
+          &:hover {
+            color: #000 !important;
+          }
+        }
+      }
+
+    }
+  }
+
+  .responsive-link {
+    display: block !important;
+  }
+
+  .main-nav-btn {
+
+    a:first-child {
+      display: none;
+    }
+
+    a:nth-child(2) {
+      display: none !important;
+    }
+    
+    a:last-child {
+      display: block !important;
+    }
+  }
+
+  //! MAİN HOME
+  .main-home-container {
+    margin: 0 1rem !important;
+
+    .main-home-row {
+      .main-home-header {
+        h1 {
+          font-size: 60px !important;
+        }
+      }
+
+      .main-home-click {
+
+        .main-home-left-img {
+          position: absolute;
+          width: auto !important;
+          left: 0% !important;
+        }
+      }
+    }
+
+    .main-home-apps {
+
+      .main-home-apps-row {
+        gap: 0 !important;
+      }
+
+      .main-home-apps-col:last-child {
+        img {
+          width: auto !important;
+          margin-right: 2.5rem !important;
+          object-fit: cover;
+        }
+      }
+    }
+  }
+}
+
+@media(max-width: 768px) {
+  //! MAİN HOME
+  .main-home-container {
+
+    .main-home-row {
+      .main-home-header {
+        h1 {
+          font-size: 48px !important;
+        }
+      }
+    }
+
+    .main-home-apps {
+
+      .main-home-apps-col:first-child {
+        display: none;
+      }
+
+      .main-home-apps-col:last-child {
+        display: none;
+      }
+    }
+  }
+
+  //! FEATURES GROUP
+  .features-group {
+    .features-group-container {
+      .features-group-header {
+        margin: 2rem 1rem !important;
+
+        h2 {
+          font-size: 40px !important;
+        }
+      }
+
+      .features-group-row {
+        gap: 16px !important;
+        margin: 0 1rem !important;
+
+        .features-group-col {
+          width: 100%;
+          text-align: center;
+        }
+      }
+
+      .features-group-row-center {
+        flex-wrap: wrap;
+
+        .features-group-col {
+          width: 100%;
+          margin: 16px 1rem;
+          text-align: center;
+
+          &:first-child {
+            margin: 0 !important;
+            width: 100% !important;
+
+            img {
+              display: none;
+            }
+          }
+
+          &:last-child {
+            margin-top: 0 !important;
+          }
+        }
+      }
+
+      .features-pink {
+        margin: 0 10rem;
+
+        .features-pink-row {
+          width: 100% !important;
+          
+          .features-pink-col {
+            text-align: center !important;
+            width: 100% !important;
+
+            header {
+              margin-bottom: 0 !important;
+
+              h2 {
+                text-align: center !important;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  //! BEST COİN STATUS
+  .coins-statuses-container {
+    margin: 0 1rem !important;
+
+    .coins-statuses-row {
+
+      .statuses-header {
+        h2 {
+          font-size: 46px !important;
+        }
+      }
+    }
+
+    .coins-statuses-table {
+
+      table {
+        width: 95% !important;
+        margin: auto; 
+        appearance: none;
+      }
+    }
+  }
+
+  // COİNS ANİMATİON 
+  .coins-animation-container {
+    margin: 0 1rem !important;
+
+    .coins-animation-header {
+  
+      h2 {
+        font-size: 40px !important;
+      }
+    }
+  }
+
+  //SOCİAL TWİTTER COMMENTS
+  .social-comments-container {
+    margin: 0 1rem !important;
+
+
+    .social-comments-title {
+      
+      h2 {
+        font-size: 40px !important;
+      }
+    }
+
+    .social-comment-row {
+      margin: 0 1rem !important;
+
+      .social-comments-col {
+        width: 100%;
+
+        .social-comments-desc {
+
+          br {
+            display: none ;
+          }
+        }
+      }
+    }
+  }
+
+  //COINUP MOBILE STORES
+  .coinup-store-container {
+
+    .coinup-store-header{
+      
+      h2 {
+        font-size: 40px !important;
+      }
+    } 
+
+    .coinup-stores-row  {
+      margin: 0 1rem !important;
+      gap: 16px !important;
+
+      a{
+        width: 100%;
+
+        h4 {
+          font-size: 20px;
+        }
+      }
+    }
+  }
+
+  //FOOTER
+  .footer-container {
+    margin: 0 1rem !important;
+  
+    .footer-row {
+      display: grid !important;
+      grid-template-columns: repeat(2, 1fr) !important;
+    }
+  } 
+
+
+}
+
+@media(max-width: 576px) {
+  //! MAİN HOME
+  .main-home-container {
+    margin: 0 !important;
+
+    .main-home-row {
+      .main-home-header {
+        h1 {
+          font-size: 32px !important;
+        }
+      }
+
+      .main-home-click {
+        width: 100% !important;
+
+        .main-home-left-img {
+          display: none !important;
+        }
+
+        .main-home-right-img {
+          display: none !important;
+        }
+      }
+
+      a {
+        display: inline-block !important;
+        margin-bottom: 5px;
+        width: 100% !important;
+
+        &:first-child {
+          background-color: #000;
+          color: #fff !important;
+          border: 2px solid #000;
+
+          &:hover {
+            background: lighten(#000, 20%);
+          }
+        }
+
+        &:last-child {
+          background-color: #fff;
+          color: #0f0f0f !important;
+        }
+      }
+    }
+  }
+
+  //! FEATURES GROUP
+  .features-group {
+
+    .features-group-container {
+      .features-group-header {
+
+        h2 {
+          font-size: 32px !important;
+        }
+      }
+
+      .features-pink {
+        .features-pink-row {
+
+          .features-pink-col {
+
+            header {
+              h2 {
+                font-size: 32px !important;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  //! BEST COİN STATUS
+  .coins-statuses-container {
+    border-radius: 24px;
+
+    .coins-statuses-row {
+
+      .statuses-header {
+        h2 {
+          font-size: 32px !important;
+        }
+
+        p { 
+
+          br {
+            display: none;
+          }
+        }
+      }
+    }
+
+    .coins-statuses-table {
+
+      table {
+
+        td {
+
+          figcaption {
+            font-size: 14px !important;
+          }
+        }
+      }
+    }
+  }
+
+  //! MAİN ABOUT
+  .main-about-container {
+    margin: 0 !important;
+
+    .main-about-row {
+      gap: 16px !important;
+      
+      .main-about-col {
+        margin: 0 1rem !important;
+        width: 100% !important;
+        padding: 0 !important;
+
+        article {
+          width: 100% !important;
+        }
+
+        h2 {
+          font-size: 32px !important;
+        }
+
+        p {
+          font-size: 14px !important;
+        }
+      }
+    }
+  }
+
+  //! MAİN ABOUT İNFO
+  .about-info {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+
+    .about-info-container {
+      margin: 1rem !important;
+    }
+  }
+
+  // COİNS ANİMATİON 
+  .coins-animation-container {
+
+    .coins-animation-header {
+  
+      h2 {
+        font-size: 32px !important;
+      }
+    }
+
+    .coins-animation-circle {
+      scale: 1 !important;
+    }
+
+      .animation-circle-content {
+        figure {
+          font-size: 26px !important;
+        }
+      }
+  }
+
+  //COİNS CRYPTO İNVESTMENS
+  .crypto-investments {
+    margin: 5rem 0 !important;
+
+    .crypto-investments-header {
+      
+      h2 {
+        margin: 1rem !important;
+        margin-bottom: 0 !important;
+        font-size: 32px !important;
+      }
+    }
+
+    .crypyo-investments-row {
+      margin: 1rem !important;
+
+      .crypyo-investments-col {
+        text-align: center;
+        width: 100%;
+
+        header {
+          align-self: center !important;
+        }
+
+      }
+    }
+  }
+
+  //COMPAMY PARTNERS SPONSOR
+  .company-parters-header {
+
+    h2 {
+      font-size: 32px !important;
+    }
+
+    p {
+      font-size: 14px !important;
+    }
+  }
+
+  .company-partners-row {
+
+    .company-partners-col {
+    
+      img {
+        width: 100px !important;
+      }
+    }
+  }
+
+  //SOCİAL TWİTTER COMMENTS
+  .social-comments-container {
+    padding: 40px 0 !important;
+
+    .social-comments-title {
+      
+      h2 {
+        font-size: 32px !important;
+      }
+
+      p {
+        font-size: 14px;
+      }
+    }
+  }
+
+  //COINUP SSS 
+  .coinup-sss {
+    margin-bottom: 0 !important;
+
+    .coinup-sss-container {
+
+      .coinup-sss-header {
+
+        h2 {
+          font-size: 32px !important;
+        }
+
+        p {
+          font-size: 14px;
+        }
+      }
+
+      .coinup-sss-row {
+        margin: auto;
+
+        .coinup-sss-col {
+
+          .sss-col-header {
+            padding-bottom: .3rem !important;
+            
+              h4 {
+                font-size: 16px !important;
+              }   
+          }  
+
+          .sss-col-content {
+
+            p {
+              font-size: 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  //COINUP MOBILE STORES
+  .coinup-store-container {
+    
+    .coinup-store-header{
+      
+      h2 {
+        font-size: 32px !important;
+      }
+    } 
+    
+    .coinup-stores-row  {
+      margin: 0 !important;
+
+      a{
+        margin: 0 1rem !important;
+      }
+    }
+  }
+
+  //ASSİSTANCE SUPPORTED AND HELPED
+  .assistance-help{
+    margin-top: 5rem !important;
+  }
+
+  .assitance-help-header {
+  
+    h2 {
+      font-size: 32px !important;
+      margin: 1rem 0 !important;
+    }
+  
+    p {
+      font-size: 14px;
+    }
+  }
+
+  .assistance-help-container {
+    margin-top: 0 !important;
+  
+    .assistance-large-row {
+      margin-top: 0 !important;
+    }
+  }  
+
+  //FOOTER
+  .footer-container {
+  
+    .footer-row {
+      grid-template-columns: repeat(1, 1fr) !important;
+      text-align: center;
+
+      .footer-col {
+        margin: 1rem 0 !important;
+
+        h6 {
+          margin: 14px 0 !important;
+        }
+      }
+    }
+
+    .footer-rigths {
+      margin: 0 auto !important;
+    }
+  } 
+
+
+}
+
+@media(max-width: 430px) {
+  //! MAİN HOME
+  .main-home-container {
+
+    .main-home-row {
+      .main-home-header {
+        h1 {
+          font-size: 25px !important;
+        }
+
+        p {
+          font-size: 12px !important;
+        }
+      }
+    }
+  }
+
+  //! FEATURES GROUP
+  .features-group {
+
+    .features-group-container {
+      margin: 0 !important;
+      width: 100% !important;
+
+      .features-group-header {
+
+        h2 {
+          font-size: 25px !important;
+        }
+      }
+
+      .features-group-row {
+
+        .features-group-col {
+
+          .features-group-content {
+
+            h3 {
+              font-size: 20px !important;
+            }
+
+            img {
+              height: auto !important;
+              width: 100% !important;
+            }
+
+            p {
+              font-size: 14px !important;
+
+              br {
+                display: none;
+              }
+            }
+          }
+        }
+      }
+
+      .features-group-row-center {
+        flex-wrap: wrap;
+        margin: 16px 1rem !important;
+
+        .features-group-col {
+
+          .features-group-content {
+            .features-ticket {
+
+              span {
+                font-size: 10px !important;
+              }
+            }
+
+            h3 {
+              font-size: 20px !important;
+
+              br {
+                display: none;
+              }
+            }
+
+            p {
+              font-size: 14px !important;
+
+              br {
+                display: none;
+              }
+            }
+          }
+        }
+      }
+
+      .features-pink {
+
+        .features-pink-row {
+
+          .features-pink-col {
+
+            header {
+              h2 {
+                font-size: 25px !important;
+                 
+                br {
+                  display: none;
+                }
+              }
+            }
+
+            p {
+              font-size: 14px !important;
+
+              br {
+                display: none;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  //! BEST COİN STATUS
+  .coins-statuses-container {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+
+    .coins-statuses-row {
+      .statuses-header {
+
+        h2 {
+          font-size: 25px !important;
+        }
+
+        p { 
+          font-size: 14px !important;
+
+          br {
+            display: none;
+          }
+        }
+      }
+    }
+
+    .coins-statuses-table {
+      height: 400px;
+
+      table {
+
+        td {
+          padding: 18px 10px !important;
+        }
+
+        .only {
+
+          td {
+            width: 100% !important;
+            padding: 16px 0px !important;
+            padding-bottom: 10px !important;
+            padding-left: 10px !important;
+          }
+        }
+
+        .duo {
+          
+          td {
+            padding: 16px 0 !important;
+            padding-bottom: 10px !important;
+            padding-left: 10px !important;
+          }
+        }
+
+        .safe-tick {
+          width: 30px !important;
+          height: 30px !important;
+        }
+
+        .close-tick {
+          width: 30px !important;
+          height: 30px !important;
+        }
+      }
+    }
+  }
+
+  //! MAİN ABOUT
+  .main-about-container {
+
+    .main-about-row {
+      
+      .main-about-col {
+
+        h2 {
+          font-size: 25px !important;
+        }
+
+        p {
+          font-size: 12px !important;
+
+          br {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+
+  //! MAİN ABOUT İNFO
+  .about-info {
+
+    .about-info-container {
+
+      .about-info-row {
+        padding-left: 0 !important;
+      }
+
+      .about-info-content {
+        margin: 20px auto !important;
+
+        p {
+          margin: 0 5px !important;
+          font-size: 14px !important;
+
+          br {
+            display: none;
+          }
+
+        }
+      }
+    }
+  }
+
+  //! COİNS ANİMATİON 
+  .coins-animation-container {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-top: 36px !important;
+
+    .coins-animation-header {
+  
+      h2 {
+        font-size: 25px !important;
+      }
+
+      p {
+        font-size: 14px !important;
+
+        br {
+          display: none;
+        }
+      }
+    }
+
+    .coins-animation-row {
+      margin-bottom: 36px !important;
+
+      .coins-animation-col {
+
+        .coins-animation-animate {
+          gap: 10px !important;
+        
+
+          .coins-animate-wrapper {
+            padding: 16px 80px 16px 10px !important;
+          }
+        }
+      }
+    }
+
+    .coins-animation-circle {
+      display: none;
+    }
+  }
+
+  //COİNS CRYPTO İNVESTMENS
+  .crypto-investments {
+
+    .crypto-investments-header {
+
+      h2 {
+        font-size: 30px !important;
+      }
+    }
+
+    .crypyo-investments-row {
+      gap: 16px !important;
+
+      .crypyo-investments-col {
+
+        header {
+          font-size: 22px !important;
+
+          br {
+            display: none;
+          }
+        }
+
+        p {
+          font-size: 14px !important;
+
+          br {
+            display: none;
+          }
+        }
+      }
+    }
+    
+    .crypto-investmens-orange {
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+      text-align: center !important;
+      justify-content: end !important;
+
+      .crypto-investmens-orange-col:first-child {
+
+        header {
+          font-size: 25px !important;
+
+          br {
+            display: none;
+          }
+        }
+
+        p {
+          font-size: 14px !important;
+
+          br {
+            display: none;
+          }
+        }
+      }
+
+      .crypto-investmens-orange-col:last-child {
+        display: none;
+      }
+    }
+  }
+
+  //!COMPAMY PARTNERS SPONSOR
+  .company-parters-header {
+
+    h2 {
+      font-size: 25px !important;
+    }
+
+    p {
+      font-size: 14px !important;
+
+      br {
+        display: none;
+      }
+    }
+  }
+
+  .company-partners-row {
+    
+    .company-partners-col {
+      gap: 16px !important;
+    }
+  }
+
+  //!SOCİAL TWİTTER COMMENTS
+  .social-comments-container {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+
+    .social-comments-title {
+      
+      h2 {
+        font-size: 25px !important;
+
+        br {
+          display: none;
+        }
+      }
+
+      p {
+        font-size: 14px !important;
+
+        br {
+          display: none;
+        }
+      }
+    }
+
+    .social-comment-row {
+      gap: 10px !important;
+    }
+  }
+
+  //!COINUP SSS 
+  .coinup-sss {
+
+    .coinup-sss-container {
+
+      .coinup-sss-header {
+
+        h2 {
+          font-size: 25px !important;
+          
+          br {
+            display: none;
+          }
+        }
+
+        p {
+          font-size: 14px !important;
+
+          br {
+            display: none;
+          }
+        }
+      }
+
+      .coinup-sss-row {
+        max-width: 100% !important;
+        margin: auto;
+
+        .coinup-sss-col {
+
+          .sss-col-header {
+            
+              h4 {
+                font-size: 16px !important;
+              }  
+          }  
+
+          .sss-col-content {
+            display: none; 
+
+            p {
+              font-size: 14px !important;
+
+              br {
+                display: none;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  //COINUP MOBILE STORES
+  .coinup-store-container {
+
+    .coinup-store-header{
+      
+      h2 {
+        font-size: 25px !important;
+      }
+    } 
+
+    .coinup-stores-row  {
+
+      a{
+
+        h4 {
+          font-size: 16px !important;
+          margin-top: 10px !important;
+        }
+
+        p {
+          font-size: 14px !important;
+        }
+      }
+    }
+  }
+
+  .coinup-stores-preview-row {
+    padding-left: 0 !important;
+  
+    .coinup-stores-preview-col {
+  
+      h4 {
+        font-size: 25px !important;
+
+        br {
+          display: none;
+        }
+      }
+  
+      p {
+        font-size: 14px !important;
+
+        br {
+          display: none;
+        }
+      }
+  
+      a {
+        text-decoration: none;
+      }
+    }
+  
+    .coinup-stores-preview-col:last-child {
+      width: 100% !important;
+      height: 230px !important;
+    }
+  }
+
+  .assitance-help-header {
+   
+  
+    h2 {
+      font-size: 25px !important;
+    }
+  
+    p {
+      font-size: 14px !important;
+
+      br {
+        display: none;
+
+        br {
+          display: none;
+        }
+      }
+    }
+  }
+
+  .assistance-help-container {
+  
+    .assistance-help-row {
+  
+      a {
+  
+        h4 {
+          font-size: 18px !important;
+        }
+  
+        p {
+          font-size: 14px !important;
+
+          br {
+            display: none;
+          }
+        }
+      }
+    }
+  
+    .assistance-large-row {
+      display: none;
+    }
+  }  
+
+  //FOOTER
+.footer-container {
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+ 
+  .footer-row {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+    .footer-col {
+
+      ul {
+        list-style: none;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+
+        h6 {
+          color: #fff;
+          font-size: 12px;
+          font-weight: 500;
+          margin-bottom: 1.7rem;
+        }
+
+        a {
+          color: #fff;
+          opacity: 80%;
+          transition: all .4s;
+          text-decoration: none;
+          
+          &:hover {
+            opacity: 100%;
+            }
+
+          i {
+            transform: rotate(45deg);
+            font-weight: 600;
+            margin-left: .3rem;
+          }
+
+          li {
+            margin-bottom: .5rem;
+          }
+        }
+      }
+    }
+  }
+
+  .footer-rigths {
+    border-top: 1px solid #878787;
+    margin: 0 7rem;
+    padding-top: 1.4rem;
+    padding-bottom: .3rem;
+    opacity: 30%;
+
+    p {
+      color: #878787;
+      font-size: 14px;
+      font-weight: 500;
+      opacity: 100%;
+    }
+  }
+} 
+}
+
+@media(max-width: 375px){
+  //COİNS CRYPTO İNVESTMENS
+  .crypto-investments {
+    
+    .crypto-investmens-orange {
+      border-bottom-left-radius: 0 !important;
+      border-bottom-right-radius: 0 !important;
+      margin: 0 !important;
+    }
+  }
+
+  .coinup-stores-preview-row {
+    border-bottom-left-radius: 0 !important;    
+    border-bottom-right-radius: 0 !important;
+    margin: 36px 0rem !important;
+  
+    .coinup-stores-preview-col {
+      margin: 0 2rem;
+  
+    }
+  
+    .coinup-stores-preview-col:last-child {
+      width: auto !important;
+      
+      img {
+        position: absolute;
+        width: 100% !important;
+        
+      }
+    }
+  }
+}
