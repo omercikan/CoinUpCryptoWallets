@@ -28,7 +28,7 @@
         <br><br>
         <pre><code>git clone https://github.com/omercikan/CoinUpCryptoWallets.git</code></pre>
     </li>
-    <li><strong>Gerekli Paketleri Yükleyin</strong>: Projeye özgü herhangi bir paket yüklemeye gerek olmamakla birlikte, SCSS derleyicisi kullanıyorsanız, bunu yükleyebilirsiniz.</li>
+    <li><strong>Npm Install: Terminale "npm install" yazarak gerekli kurumlumları yükleyin.</li>
     <li><strong>Dosyaları Açın</strong>: Tasarım dosyalarına erişmek için, klonladığınız dizinde bulunan <code>index.html</code> dosyasını bir tarayıcıda açabilirsiniz.</li>
 </ol>
 
